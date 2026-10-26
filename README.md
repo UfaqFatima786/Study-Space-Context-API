@@ -29,27 +29,6 @@ The project features a dashboard-style interface with profile information, navig
 - **Vite** – Development server and build tooling
 - **npm** – Package management
 
-## 📂 Project Structure
-
-```text
-Study-Space-Context-API/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx
-│   │   ├── Profile.jsx
-│   │   ├── Dashboard.jsx
-│   │   └── Settings.jsx
-│   ├── context/
-│   │   ├── UserContext.jsx
-│   │   └── ThemeContext.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── index.html
-├── package.json
-└── README.md
-```
 
 ## 🎯 Learning Outcomes
 
@@ -65,9 +44,7 @@ Through this project, I practiced:
 
 ## 🔮 Future Improvements
 
-- 💾 Persist theme preferences using Local Storage.
 - 🔐 Add authentication and personalized user profiles.
-- 📱 Further improve mobile navigation and responsiveness.
 - 📈 Add study progress tracking and task management.
 - 🎨 Enhance the dashboard with additional customization options.
 
