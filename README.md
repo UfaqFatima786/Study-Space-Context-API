@@ -1,6 +1,6 @@
 # 📚 Study Space – React User Context
 
-A modern and responsive study dashboard built with **React and Context API** to practice global state management, reusable components, and light/dark theme switching.
+A modern and responsive study dashboard built with **React and User Context** to practice global state management, reusable components, and light/dark theme switching.
 
 ## ✨ Overview
 
